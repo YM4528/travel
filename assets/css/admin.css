@@ -1,0 +1,35 @@
+body{
+  font-family: Cambria;
+}
+
+#sidebar{
+  background-color: black;
+  color: #fff;
+  min-height: 2000px;
+}
+
+.sider-list{
+  list-style-type: none;
+}
+
+.sider-list li a{
+  color: #fff;
+}
+
+.sider-list li a:hover{
+text-decoration: none;
+}
+
+.sider-list li{
+  padding: 15px;
+  border-bottom: 1px solid #fff;
+}
+
+.form-container{
+  padding: 28px;
+  color: #fff;
+}
+
+.user-head{
+  font-weight: bold;
+}
